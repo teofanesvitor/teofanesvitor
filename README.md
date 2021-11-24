@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @teofanesvitor
-- 👀 I’m interested in Data Science and Engeeniring
+- 👀 I’m interested in Data Science and engineering
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on ML and DS projects
 - 📫 How to reach me teofanes.silva@lccv.com.br
